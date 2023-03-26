@@ -1,4 +1,4 @@
-![]([https://github.com/user/banner.png](https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif))
+[![MasterHead](https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif)](riteeshghodela)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <h1 align="center">Hi 👋, I'm Ritesh Ghodela</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
