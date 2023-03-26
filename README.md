@@ -1,4 +1,3 @@
-[![MasterHead]([19362653-removebg-preview.png](https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm#query=web%20developer&position=1&from_view=search&track=ais))](riteeshghodela)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <h1 align="center">Hi 👋, I'm Ritesh Ghodela</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
